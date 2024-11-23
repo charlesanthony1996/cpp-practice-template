@@ -1,0 +1,9 @@
+delete old build directory
+
+mkdir build
+cd build
+cmake ..
+make
+
+finally
+./project
